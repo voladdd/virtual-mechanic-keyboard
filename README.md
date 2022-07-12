@@ -2,7 +2,7 @@
 
 ## Idea:
 
-Create a virtual mechanic keyboard, that will seems and sounds like a real one.
+The main goal is to get a bit a aesthetic of using mechanic keyboard for folks who never use it or even don't know about this fetish
 
 ## Tech-stack:
 
